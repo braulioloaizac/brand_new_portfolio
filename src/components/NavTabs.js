@@ -8,12 +8,12 @@ function NavTabs({ currentPage, handlePageChange }) {
         <span className="name">Braulio's Portfolio</span>
       </a>
 
-      <ul className="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+      <ul className="d-inline-flex mt-2 mt-md-0 ms-md-auto nav-pills">
         <li className="nav-item me-3 py-2  text-decoration-none">
           <a
             href="#about"
             onClick={() => handlePageChange("About")}
-            className={currentPage === "About" ? "nav-link active" : "nav-link"}
+            className={currentPage === "About" ? "nav-link  active" : "nav-link"}
           >
             About Me
           </a>
