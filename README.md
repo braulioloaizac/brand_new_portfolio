@@ -22,5 +22,5 @@ The Unlicense
 
 Email : bloaizac@uqvirtual.edu.co
 
-![alt text](./images/screenshot.png/ "snapshot")
+![alt text](./screenshot.png/ "snapshot")
 [Click here](https://braulioloaizac.github.io/brand_new_portfolio/#portfolio) to get redirected to the webpage
