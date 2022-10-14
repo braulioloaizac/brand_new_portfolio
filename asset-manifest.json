@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/brand_new_portfolio/static/css/main.151d9585.css",
-    "main.js": "/brand_new_portfolio/static/js/main.0b7eae3f.js",
-    "static/media/1.png": "/brand_new_portfolio/static/media/1.45331671702b51cd72dc.png",
+    "main.js": "/brand_new_portfolio/static/js/main.bb87e7ae.js",
+    "static/media/2.png": "/brand_new_portfolio/static/media/2.45331671702b51cd72dc.png",
+    "static/media/screenshot.png": "/brand_new_portfolio/static/media/screenshot.4ff16dfcbfc96d06cf99.png",
     "static/media/profile.png": "/brand_new_portfolio/static/media/profile.2e73e29c22565d331896.png",
-    "static/media/5.png": "/brand_new_portfolio/static/media/5.f1315ac7b0851b6b6a85.png",
-    "static/media/2.png": "/brand_new_portfolio/static/media/2.0f92906bb74d81cfa3e3.png",
-    "static/media/3.png": "/brand_new_portfolio/static/media/3.801b574e0d82ea5c9cf1.png",
-    "static/media/6.png": "/brand_new_portfolio/static/media/6.d170f115d3105b403b89.png",
-    "static/media/4.png": "/brand_new_portfolio/static/media/4.de2495d6aece6079c39f.png",
+    "static/media/1.png": "/brand_new_portfolio/static/media/1.ae3e26d2cc7b24591aeb.png",
+    "static/media/6.png": "/brand_new_portfolio/static/media/6.f1315ac7b0851b6b6a85.png",
+    "static/media/3.png": "/brand_new_portfolio/static/media/3.0f92906bb74d81cfa3e3.png",
+    "static/media/4.png": "/brand_new_portfolio/static/media/4.801b574e0d82ea5c9cf1.png",
+    "static/media/7.png": "/brand_new_portfolio/static/media/7.d170f115d3105b403b89.png",
+    "static/media/5.png": "/brand_new_portfolio/static/media/5.de2495d6aece6079c39f.png",
     "index.html": "/brand_new_portfolio/index.html",
     "main.151d9585.css.map": "/brand_new_portfolio/static/css/main.151d9585.css.map",
-    "main.0b7eae3f.js.map": "/brand_new_portfolio/static/js/main.0b7eae3f.js.map"
+    "main.bb87e7ae.js.map": "/brand_new_portfolio/static/js/main.bb87e7ae.js.map"
   },
   "entrypoints": [
     "static/css/main.151d9585.css",
-    "static/js/main.0b7eae3f.js"
+    "static/js/main.bb87e7ae.js"
   ]
 }
